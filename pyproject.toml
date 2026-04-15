@@ -1,0 +1,17 @@
+[project]
+name = "goit-ds-hw-01"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Andrii Slabkyi",email = "aslabkyi@gmail.com"}
+]
+requires-python = ">=3.13"
+dependencies = [
+]
+
+[tool.poetry]
+package-mode = false
+
+[build-system]
+requires-python = "^3.13"
+build-backend = "poetry.core.masonry.api"
